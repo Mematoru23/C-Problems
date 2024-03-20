@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573144309 source:d:\1. c++\info\graflistaad\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572010862 source:d:\1. wellcode\c++\siruri de numere\cautare sir aproape sortat\main.cpp
+	<iostream>
+
+1574253753 source:d:\1. c++\wellcode\siruri de numere\cautare sir aproape sortat\main.cpp
+	<iostream>
+	<limits>
+

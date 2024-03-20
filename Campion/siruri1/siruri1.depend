@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586247220 source:d:\1. c++\campion\siruri1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+

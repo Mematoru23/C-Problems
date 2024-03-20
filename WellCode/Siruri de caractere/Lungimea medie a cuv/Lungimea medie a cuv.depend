@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573736711 source:d:\1. c++\wellcode\siruri de caractere\lungimea medie a cuv\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+
